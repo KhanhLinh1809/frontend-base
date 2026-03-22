@@ -1,0 +1,162 @@
+[
+    {
+        "ID": 1,
+        "Name": "Cà phê đen đá",
+        "Price": 30000,
+        "Category": "classic",
+        "Image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=400&q=80",
+        "Description": "Hương vị cà phê đen đậm chất truyền thống, rang xay mộc nguyên chất, giúp khởi đầu ngày mới đầy năng lượng."
+    },
+    {
+        "ID": 2,
+        "Name": "Cà phê sữa đá",
+        "Price": 35000,
+        "Category": "milk",
+        "Image": "https://images.unsplash.com/photo-1561047029-3000c68339ca?w=400&q=80",
+        "Description": "Sự kết hợp hoàn hảo giữa vị đắng của cà phê pha phin và vị ngọt ngào, béo ngậy của sữa đặc."
+    },
+    {
+        "ID": 3,
+        "Name": "Bạc xỉu",
+        "Price": 35000,
+        "Category": "milk",
+        "Image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=400&q=80",
+        "Description": "Nhiều sữa hơn cà phê, phù hợp cho những ai yêu thích sự nhẹ nhàng, ngọt ngào nhưng vẫn vương vấn mùi cà phê."
+    },
+    {
+        "ID": 4,
+        "Name": "Cappuccino",
+        "Price": 50000,
+        "Category": "milk",
+        "Image": "https://images.unsplash.com/photo-1485808191679-5f86510bd652?w=400&q=80",
+        "Description": "Espresso đậm đặc xen lẫn chút thơm béo của bọt sữa đánh nóng mịn màng, phủ lên chút bột cacao."
+    },
+    {
+        "ID": 5,
+        "Name": "Latte",
+        "Price": 50000,
+        "Category": "milk",
+        "Image": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?w=400&q=80",
+        "Description": "Tương tự Cappuccino nhưng nhiều sữa nóng hơn, mang tới hương vị nhẹ nhàng cho buổi sáng êm dịu."
+    },
+    {
+        "ID": 6,
+        "Name": "Americano",
+        "Price": 45000,
+        "Category": "classic",
+        "Image": "https://images.unsplash.com/photo-1551030173-122aabc4489c?w=400&q=80",
+        "Description": "Sự thanh khiết của Espresso hòa quyện cùng nước tinh khiết, đánh thức mọi giác quan một cách sảng khoái."
+    },
+    {
+        "ID": 7,
+        "Name": "Espresso",
+        "Price": 40000,
+        "Category": "classic",
+        "Image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=400&q=80",
+        "Description": "Cà phê chiết xuất áp suất cao, giữ trọn vẹn hương vị tinh túy nhất của những hạt cà phê hảo hạng."
+    },
+    {
+        "ID": 8,
+        "Name": "Cold Brew",
+        "Price": 55000,
+        "Category": "iced",
+        "Image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&q=80",
+        "Description": "Cà phê ủ lạnh trong thời gian dài giúp loại bỏ vị chua gắt, mang lại ly cà phê thanh mát thơm mượt."
+    },
+    {
+        "ID": 9,
+        "Name": "Macchiato",
+        "Price": 55000,
+        "Category": "milk",
+        "Image": "https://images.unsplash.com/photo-1485808191679-5f86510bd652?w=400&q=80",
+        "Description": "Một lớp espresso đậm đặc được điểm thêm chút bọt sữa nóng mịn, tạo nên sự tương phản hương vị tinh tế."
+    },
+    {
+        "ID": 10,
+        "Name": "Flat White",
+        "Price": 48000,
+        "Category": "milk",
+        "Image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=400&q=80",
+        "Description": "Espresso đậm kết hợp sữa vi bọt phẳng mịn, ít bọt hơn Latte, mang lại hương vị đậm đà và kem mượt."
+    },
+    {
+        "ID": 11,
+        "Name": "Iced Latte",
+        "Price": 52000,
+        "Category": "iced",
+        "Image": "https://images.unsplash.com/photo-1517959105821-eaf2591984ca?w=400&q=80",
+        "Description": "Espresso rót trên đá và sữa lạnh, thức uống lý tưởng cho những ngày hè nóng bức."
+    },
+    {
+        "ID": 12,
+        "Name": "Iced Mocha",
+        "Price": 58000,
+        "Category": "iced",
+        "Image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&q=80",
+        "Description": "Chocolate syrup, espresso và sữa hòa quyện cùng đá viên, phủ thêm kem tươi ngon tuyệt vời."
+    },
+    {
+        "ID": 13,
+        "Name": "Frappuccino",
+        "Price": 65000,
+        "Category": "sweet",
+        "Image": "https://images.unsplash.com/photo-1600718374662-0483d2b9da44?w=400&q=80",
+        "Description": "Thức uống pha trộn mát lạnh từ đá xay, sữa và espresso, phủ kem tươi béo ngậy trên đỉnh."
+    },
+    {
+        "ID": 14,
+        "Name": "Caramel Macchiato",
+        "Price": 62000,
+        "Category": "sweet",
+        "Image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=400&q=80",
+        "Description": "Vanilla syrup, sữa, espresso và sốt caramel phủ lên trên, hương vị ngọt ngào và đậm đà quyến rũ."
+    },
+    {
+        "ID": 15,
+        "Name": "Lungo",
+        "Price": 42000,
+        "Category": "classic",
+        "Image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400&q=80",
+        "Description": "Espresso pha nhiều nước hơn, giữ được vị đắng nhưng nhẹ nhàng, thơm hơn và ít đậm đặc hơn."
+    },
+    {
+        "ID": 16,
+        "Name": "Vienna Coffee",
+        "Price": 52000,
+        "Category": "specialty",
+        "Image": "https://images.unsplash.com/photo-1503481766315-7a586b20f66d?w=400&q=80",
+        "Description": "Cà phê kiểu Áo với lớp kem tươi đánh bông phủ trên mặt, hương vị sang trọng và tinh tế."
+    },
+    {
+        "ID": 17,
+        "Name": "Irish Coffee",
+        "Price": 68000,
+        "Category": "specialty",
+        "Image": "https://images.unsplash.com/photo-1503481766315-7a586b20f66d?w=400&q=80",
+        "Description": "Cà phê pha cùng whiskey Irish và đường nâu, phủ kem tươi lên trên, thức uống mùa đông cổ điển."
+    },
+    {
+        "ID": 18,
+        "Name": "Mocha",
+        "Price": 58000,
+        "Category": "sweet",
+        "Image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&q=80",
+        "Description": "Sự kết hợp hài hòa giữa espresso, sữa nóng và sốt chocolate đắng, kem tươi cho thêm phần mê hoặc."
+    },
+    {
+        "ID": 19,
+        "Name": "Affogato",
+        "Price": 60000,
+        "Category": "specialty",
+        "Image": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?w=400&q=80",
+        "Description": "Kem vani tan chảy dưới làn espresso nóng bỏng, sự tương phản nóng lạnh tạo ra trải nghiệm độc đáo."
+    },
+    {
+        "ID": 20,
+        "Name": "Iced Cold Brew",
+        "Price": 60000,
+        "Category": "iced",
+        "Image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&q=80",
+        "Description": "Cold Brew ủ đặc rồi rót trên đá, không pha loãng, giữ trọn hương vị thơm mát của cà phê nguyên chất."
+    }
+]
