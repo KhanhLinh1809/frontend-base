@@ -1,5 +1,5 @@
 <template>
-  <div class="product-card" v-if="product">
+  <RouterLink :to="'/product/' + product.ID" class="product-card" v-if="product">
     <!-- Hình ảnh trong nền trắng -->
     <div class="image-box">
       <img :src="product.Image" :alt="product.Name" class="product-image" />
@@ -21,7 +21,7 @@
         <button class="btn btn-primary btn-sm rounded-pill px-3 fw-medium action-btn">Add to Cart</button>
       </div>
     </div>
-  </div>
+  </RouterLink>
   
   <div v-else class="product-card-skeleton">
     <p>Đang tải dữ liệu...</p>
@@ -58,6 +58,8 @@ const formattedPrice = computed(() => {
   display: flex;
   flex-direction: column;
   height: 100%;
+  text-decoration: none;
+  color: inherit;
 }
 
 .image-box {
